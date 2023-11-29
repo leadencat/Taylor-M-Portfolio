@@ -8,10 +8,13 @@ resume for future job applications.
 Stores data and notes from previous projects that are quick and easy to navigate to.
 
 # Links
+https://github.com/leadencat/Taylor-M-Portfolio 
+https://leadencat.github.io/Taylor-M-Portfolio/ 
 
+![alt](assets/images/Portfolio.png)
 
 # Credits 
-
+N/A
 # License
 
 Copyright (c) [2023] [Taylor McKinney]
