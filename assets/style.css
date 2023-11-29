@@ -1,26 +1,53 @@
 
 
 
-
 header {
+    margin: 10px;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
-    display: flex;
-    justify-content: right;
-    align-items: center;
+display: flex;
+    justify-content: space-between;
+  align-items: center;
     padding: 1%;
-    background-color:green;
+    background-color:olive;
     color:black;
     list-style: none;
   }
-  
+
+  main {
+    margin: 10px;
+    background-color: bisque;
+    padding: 150px;
+  }
+
 h1 {
-justify-content: left;
+margin: 10px;
+display: flex;
+justify-content: flex-start;
 }
 
+h2 {
+margin: 1px;
+display: flex;
+
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+
 a {
- display: inline-block;
- margin-left: 1px;
+margin: 10px;
+ margin-left: 100px;
  text-decoration: none;
-      }
+
+} 
+nav a:hover {
+    color:black;
+  }
   
+ nav a {
+        background-color: unset;
+        color:blanchedalmond;
+        text-decoration: none;
+      }
